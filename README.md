@@ -1,5 +1,3 @@
-# Nico's Blog
+forked from : nicomak/blog
 
-This public repository contains code used in my blog posts and articles.
-
-You are welcome to visit my blog at http://blog.ditullio.fr !
+I take no credit here, probably shouldn't use this...
